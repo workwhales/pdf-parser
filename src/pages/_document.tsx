@@ -7,7 +7,7 @@ class MyDocument extends Document {
       <Html lang="en-GB">
         <Head>
           <meta name="theme-color" content="#f0f0f0" />
-          <meta name="copyright" content="@fredericoo on github" />
+          <meta name="copyright" content="@workwhales on github" />
 
           <meta name="robots" content="index,follow" />
           <meta name="twitter:card" content="summary_large_image" />
